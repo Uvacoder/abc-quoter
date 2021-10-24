@@ -41,21 +41,15 @@ onMounted(() => {
       #Quote's
     </h1>
     <p class="w-11/12 md:w-1/2 mb-4 text-sm md:text-xl text-center text-gray-500 dark:text-gray-50">
-      Kumpulan quote oleh orang-orang hebat di dunia sebagai penasehat dan penyemangat. Dibuat untuk memeriahkan event Hacktoberfest 2021.
+      Quotes **************************.
     </p>
 
     <div class="w-11/12 md:w-1/2 flex justify-center mb-4">
-      <a class="mr-1" href="https://github.com/nyancodeid/quotes">
+      <a class="mr-1" href="https://github.com/uvacoder/abc-quoter">
         <img src="https://img.shields.io/badge/github-quotes-brightgreen?logo=github&style=flat" width="109" height="20" alt="Repository">
       </a>
-      <a class="mr-1" href="https://github.com/nyancodeid/quotes/pulls">
-        <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" width="90" height="20" alt="Repository">
-      </a>
-      <a class="mr-1" href="https://github.com/nyancodeid/quotes/issues">
-        <img src="https://img.shields.io/github/issues/nyancodeid/quotes" width="90" height="20" alt="Repository">
-      </a>
-      <a href="https://github.com/nyancodeid/quotes/pulls">
-        <img src="https://img.shields.io/github/issues-pr/nyancodeid/quotes" width="128" height="20" alt="Repository">
+      <a href="https://github.com/uvacoder/abc-quoter/pulls">
+        <img src="https://img.shields.io/github/issues-pr/uvacoder/abc-quoter" width="128" height="20" alt="Repository">
       </a>
     </div>
   </div>
