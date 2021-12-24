@@ -44,14 +44,7 @@ onMounted(() => {
       Quotes **************************.
     </p>
 
-    <div class="w-11/12 md:w-1/2 flex justify-center mb-4">
-      <a class="mr-1" href="https://github.com/uvacoder/abc-quoter">
-        <img src="https://img.shields.io/badge/github-quotes-brightgreen?logo=github&style=flat" width="109" height="20" alt="Repository">
-      </a>
-      <a href="https://github.com/uvacoder/abc-quoter/pulls">
-        <img src="https://img.shields.io/github/issues-pr/uvacoder/abc-quoter" width="128" height="20" alt="Repository">
-      </a>
-    </div>
+    
   </div>
 </template>
 
