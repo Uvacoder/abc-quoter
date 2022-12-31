@@ -17,7 +17,7 @@
     "url": "https://github.com/nyancodeid/quotes.git"
   },
   "dependencies": {
-    "@vue/server-renderer": "^3.2.19",
+    "@vue/server-renderer": "^3.2.45",
     "@vueuse/core": "^6.5.3",
     "@vueuse/head": "^0.5.1",
     "changedpi": "^1.0.4",
