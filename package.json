@@ -19,7 +19,7 @@
   "dependencies": {
     "@vue/server-renderer": "^3.2.19",
     "@vueuse/core": "^6.5.3",
-    "@vueuse/head": "^0.5.1",
+    "@vueuse/head": "^0.9.8",
     "changedpi": "^1.0.4",
     "file-saver": "^2.0.5",
     "html-to-image": "^1.9.0",
